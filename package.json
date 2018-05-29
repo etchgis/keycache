@@ -1,5 +1,5 @@
 {
-  "name": "keydex",
+  "name": "keykeeper",
   "version": "0.0.0",
   "description": "Node.js module for storing/retrieving public keys, private keys, symmetric keys, and API keys.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/etchgis/keydex.git"
+    "url": "git+https://github.com/etchgis/keykeeper.git"
   },
   "author": "Etch Ltd. (https://etchgis.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/etchgis/keydex/issues"
+    "url": "https://github.com/etchgis/keykeeper/issues"
   },
-  "homepage": "https://github.com/etchgis/keydex#readme"
+  "homepage": "https://github.com/etchgis/keykeeper#readme"
 }
