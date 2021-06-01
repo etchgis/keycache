@@ -1,5 +1,5 @@
 {
-  "name": "keykeeper",
+  "name": "cryptkeeper",
   "version": "0.0.0",
   "description": "Node.js module for storing/retrieving public keys, private keys, symmetric keys, and API keys.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/etchgis/keykeeper.git"
+    "url": "git+https://github.com/etchgis/cryptkeeper.git"
   },
   "author": "Etch Ltd. (https://etchgis.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/etchgis/keykeeper/issues"
+    "url": "https://github.com/etchgis/cryptkeeper/issues"
   },
-  "homepage": "https://github.com/etchgis/keykeeper#readme"
+  "homepage": "https://github.com/etchgis/cryptkeeper#readme"
 }
